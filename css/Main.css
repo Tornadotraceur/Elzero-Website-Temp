@@ -834,7 +834,7 @@ ul {
 /* < !-- start Team --> */
 .team {
   padding-top: var(--main-padding-top);
-
+    padding-bottom: var(--main-padding-top);
   position: relative;
 }
 
